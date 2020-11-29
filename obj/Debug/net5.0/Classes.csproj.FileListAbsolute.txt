@@ -1,0 +1,32 @@
+E:\Code\C#\Classes\bin\Debug\net5.0\Classes.exe
+E:\Code\C#\Classes\bin\Debug\net5.0\Classes.deps.json
+E:\Code\C#\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+E:\Code\C#\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+E:\Code\C#\Classes\bin\Debug\net5.0\Classes.dll
+E:\Code\C#\Classes\bin\Debug\net5.0\ref\Classes.dll
+E:\Code\C#\Classes\bin\Debug\net5.0\Classes.pdb
+E:\Code\C#\Classes\obj\Debug\net5.0\Classes.csprojAssemblyReference.cache
+E:\Code\C#\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+E:\Code\C#\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+E:\Code\C#\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+E:\Code\C#\Classes\obj\Debug\net5.0\Classes.dll
+E:\Code\C#\Classes\obj\Debug\net5.0\ref\Classes.dll
+E:\Code\C#\Classes\obj\Debug\net5.0\Classes.pdb
+E:\Code\C#\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\bin\Debug\net5.0\Classes.exe
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\bin\Debug\net5.0\Classes.deps.json
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\bin\Debug\net5.0\Classes.runtimeconfig.json
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\bin\Debug\net5.0\Classes.dll
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\bin\Debug\net5.0\ref\Classes.dll
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\bin\Debug\net5.0\Classes.pdb
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\Classes.csprojAssemblyReference.cache
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\Classes.dll
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\ref\Classes.dll
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\Classes.pdb
+E:\Code\C#\Age Difference Calculator\Age-Difference-Calculator\obj\Debug\net5.0\Classes.genruntimeconfig.cache
